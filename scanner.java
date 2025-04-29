@@ -4,7 +4,7 @@ public class scanner {
     public void readNameAndAge() {
         String name;
         int age;
-        System.out.print("Enter your name: ");
+        System.out.print("Enter your name:  ");
         name = sc.nextLine();
 
         System.out.print("Enter your age: ");
